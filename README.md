@@ -11,6 +11,6 @@ Podremos cargar y utilizar modelos pre-entrenados provenientes de los frameworks
 
 Para la detección de personas en tiempo real se hace uso de los siguientes:
 
-- Inception-SSD (Tensorflow)
-- MobileNet-SSD (Caffe)
-- YOLOv3 (Darknet)
+- Inception-SSD ([TensorFlow](https://www.tensorflow.org/))
+- MobileNet-SSD ([Caffe](http://caffe.berkeleyvision.org/))
+- YOLOv3 ([Darknet](https://pjreddie.com/darknet/))
